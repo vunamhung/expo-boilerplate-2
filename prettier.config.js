@@ -2,7 +2,7 @@ module.exports = {
   printWidth: 152,
   singleQuote: true,
   trailingComma: 'all',
-  importOrder: ['^react-native$', '^react$', '^expo', '^@react-navigation', '^native-base', '^[./]', '<THIRD_PARTY_MODULES>'],
+  importOrder: ['^react$', '^react-native$', '^expo', '^@react-navigation', '^native-base', '^[./]', '<THIRD_PARTY_MODULES>'],
   importOrderTypeImportsToTop: true,
   importOrderTypeImportsToBottom: false,
   importOrderSeparation: false,
